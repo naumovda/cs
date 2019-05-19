@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="main_unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="9"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="menu_unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="36" Y="8"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="test_unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos Y="6"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="common_unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="30" Y="6"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="/usr/share/fpcsrc/3.0.4/packages/rtl-objpas/src/inc/dateutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="log_unit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="54"/>
+        <CursorPos X="20" Y="77"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../../../../../cs/course_project/project/test_unit.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="23" HistoryIndex="22">
+      <Position1>
+        <Filename Value="common_unit.pas"/>
+        <Caret Column="17"/>
+      </Position1>
+      <Position2>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="36" TopLine="23"/>
+      </Position2>
+      <Position3>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="8"/>
+      </Position3>
+      <Position4>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="43" Column="45" TopLine="42"/>
+      </Position4>
+      <Position5>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="88" Column="3" TopLine="68"/>
+      </Position5>
+      <Position6>
+        <Filename Value="test_unit.pas"/>
+      </Position6>
+      <Position7>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="87" Column="24" TopLine="69"/>
+      </Position7>
+      <Position8>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="73" Column="52" TopLine="66"/>
+      </Position8>
+      <Position9>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="87" TopLine="67"/>
+      </Position9>
+      <Position10>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="53" TopLine="34"/>
+      </Position10>
+      <Position11>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="181" TopLine="164"/>
+      </Position11>
+      <Position12>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="62" TopLine="44"/>
+      </Position12>
+      <Position13>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="225" TopLine="208"/>
+      </Position13>
+      <Position14>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="245" TopLine="222"/>
+      </Position14>
+      <Position15>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="39" TopLine="16"/>
+      </Position15>
+      <Position16>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="245" Column="12" TopLine="223"/>
+      </Position16>
+      <Position17>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="9" Column="92"/>
+      </Position17>
+      <Position18>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="271" Column="5" TopLine="251"/>
+      </Position18>
+      <Position19>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="36" Column="16" TopLine="13"/>
+      </Position19>
+      <Position20>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="240" TopLine="240"/>
+      </Position20>
+      <Position21>
+        <Filename Value="test_unit.pas"/>
+        <Caret Line="251" Column="21" TopLine="237"/>
+      </Position21>
+      <Position22>
+        <Filename Value="menu_unit.pas"/>
+        <Caret Line="155" Column="66" TopLine="147"/>
+      </Position22>
+      <Position23>
+        <Filename Value="menu_unit.pas"/>
+        <Caret Line="312" Column="50" TopLine="295"/>
+      </Position23>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
